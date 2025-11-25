@@ -1,5 +1,8 @@
 
-Hi 👋, I'm Royal Kihiu Mbugua a passionate Data Scientist
+<h1> Hi 👋, I'm Royal Kihiu Mbugua </h1>
+
+<h2> A passionate Data Scientist </h2>
+
 
 
 ## 🌐 Socials:
