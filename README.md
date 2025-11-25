@@ -1,7 +1,7 @@
 
-<h1> Hi 👋, I'm Royal Kihiu Mbugua </h1>
+<h1 style="text-align: center;"> Hi 👋, I'm Royal Kihiu Mbugua </h1>
 
-<h2> A passionate Data Scientist </h2>
+<h2 style="text-align: center;"> A passionate Data Scientist </h2>
 
 
 
